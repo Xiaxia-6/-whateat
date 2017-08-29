@@ -1,0 +1,15 @@
+介绍：
+http://www.xker.com/down/2015/179736.html
+
+Axure RP Extension for Chrome是原型设计工具Axure RP的Chrome浏览器插件。目前版本为0.6.2。
+因为在线安装需要访问Google Chrome在线商店，有时候会访问不了。所以提供一个离线版本进行安装。
+其他国内浏览器的极速版本也是通用的，直接拖拽到浏览器上安装即可。
+安装方法：
+1、打开Chrome浏览器，找到“工具 -> 扩展程序”;
+2、将下载的Axure-RP-Extension-for-Chrome-0.6.2.crx文件拖到界面当中;
+3、安装成功后，勾选“允许访问文件网址”就可以了。
+
+
+
+下载地址：
+http://www.xker.com/plus/download.php?open=0&aid=179736&cid=3
